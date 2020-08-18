@@ -40,7 +40,12 @@
     'Master Class': {
       hue: 195,
       lightness: 60,
-    }
+    },
+
+    'Practical': {
+      hue: 170,
+      lightness: 50,
+    },
   };
 
   // Simply get all the classes on the timetable
