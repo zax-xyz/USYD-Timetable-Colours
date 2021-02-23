@@ -1,5 +1,8 @@
 # USYD Timetable Colours
 
+## 2021 Update
+As USYD now uses Allocate+ for timetables, this script is no longer applicable.
+
 ## Example
 ![alt text](https://github.com/zaxutic/USYD-Timetable-Colours/raw/master/src/img/timetable.png "Colour coded timetable example")
 
